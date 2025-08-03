@@ -6,7 +6,7 @@ import requests
 
 
 # GEMINI API KEY'İNİ BURAYA YAZ
-GEMINI_API_KEY = "AIzaSyCC26sECnkOcgEpXd8ZuAsTGVU_0xpQ8ow"
+GEMINI_API_KEY = "YOUR_API_KEY :)"
 
 class GeminiHandler(BaseHTTPRequestHandler):
     def do_GET(self):
